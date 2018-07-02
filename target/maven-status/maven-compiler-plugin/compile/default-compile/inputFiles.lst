@@ -1,0 +1,7 @@
+/home/bluesky/BlueSky/work/nlpviz/src/main/java/com/bpodgursky/nlpviz/servlet/HomeServlet.java
+/home/bluesky/BlueSky/work/nlpviz/src/main/java/com/bpodgursky/nlpviz/AbstractParser.java
+/home/bluesky/BlueSky/work/nlpviz/src/main/java/com/bpodgursky/nlpviz/api/WebServer.java
+/home/bluesky/BlueSky/work/nlpviz/src/main/java/com/bpodgursky/nlpviz/servlet/ParseServlet.java
+/home/bluesky/BlueSky/work/nlpviz/src/main/java/com/bpodgursky/nlpviz/EnglishParser.java
+/home/bluesky/BlueSky/work/nlpviz/src/main/java/com/bpodgursky/nlpviz/SpanishParser.java
+/home/bluesky/BlueSky/work/nlpviz/src/main/java/com/bpodgursky/nlpviz/scripts/StanfordCoreNLPTest.java

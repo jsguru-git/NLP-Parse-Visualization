@@ -1,0 +1,92 @@
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+}
+
+rect {
+  fill: #fff;
+}
+
+.node > rect {
+  stroke-width: 1px;
+  stroke: #333;
+  fill: none;
+  opacity: 0.5;
+}
+
+.edge rect {
+  fill: #fff
+}
+
+.edgePath path {
+  stroke: #333;
+  stroke-width: 1.5px;
+}
+
+.ne-O > rect {
+  fill: #00ffd0;
+}
+
+.ne-PERSON > rect {
+  fill: #b997ff;
+}
+
+.ne-DATE > rect {
+  fill: #ffae6a;
+}
+
+.ne-ORGANIZATION > rect {
+  fill: #96c2ff;
+}
+
+.ne-LOCATION > rect {
+  fill: #7e7e7e;
+}
+
+.ne-ORDINAL > rect {
+  fill: #92ff7d;
+}
+
+.ne-NUMBER > rect {
+  fill: #fdb9ff;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden
+}
+
+.main-svg {
+  position: absolute; 
+  top: 50;  
+  left: 0;
+  height: 1000px;
+  width: 100%;
+  border: 1px solid #999;
+}
+
+.legend-svg {
+  position: fixed;
+  height: 60px;
+  width: 600px;
+}
+
+textarea {
+  border: 1px solid #999999;
+  width: 100%;
+  margin: 5px 0;
+  padding: 3px;
+}
+
+.legend {
+  stroke-width: 3px;
+  stroke: #333;
+  fill: none;
+  opacity: 0.5;
+}
+.label{
+
+}
